@@ -73,7 +73,7 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
           <configuration>
-            <url>http://52.66.112.169:8080//manager/devops</url>
+            <url>http://52.66.112.169:8080/manager/devops</url>
             <server>tomcatserver</server>
             <path>/carwebapp</path>
             <username>admin</username>
